@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d4960ab-5256-406b-b10e-2a695891f32a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Cheat Sheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/androidTest/java/com/example/android/cookies/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/app/src/test/java/com/example/android/cookies/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Cookies/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/androidTest/java/com/example/android/menu/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/java/com/example/android/menu/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/app/src/test/java/com/example/android/menu/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Menu/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/androidTest/java/com/example/android/miwok/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/java/com/example/android/miwok/ColorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/java/com/example/android/miwok/FamilyActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/java/com/example/android/miwok/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/java/com/example/android/miwok/NumbersActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/java/com/example/android/miwok/PhraseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/layout/activity_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/layout/activity_family.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/layout/activity_numbers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/layout/activity_phrase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/app/src/test/java/com/example/android/miwok/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/androidTest/java/com/example/android/miwoklanguage/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/java/com/example/android/miwoklanguage/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/app/src/test/java/com/example/android/miwoklanguage/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/MiwokLanguage/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/.idea/shelf/Uncommitted_changes_before_Update_at_08-03-2022_21_32_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/.idea/shelf/Uncommitted_changes_before_Update_at_08-03-2022_21_32_[Default_Changelist]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/.idea/shelf/Uncommitted_changes_before_Update_at_08-03-2022_21_32__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/androidTest/java/com/example/android/coffeeorder/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/java/com/example/android/coffeeorder/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/values-es/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/values/style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/app/src/test/java/com/example/android/coffeeorder/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AndroidDev/Practice/coffeeOrder/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/hackerRank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/hackerRank/out/production/untitled104/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/hackerRank/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/college.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asgn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../instantMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../instantMap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/.idea/sem4ToDoList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/sem4ToDoList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/sem4ToDoList/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/sem4ToDoList/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/sem4ToDoList/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/sem4ToDoList/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem4ToDoList/sem4ToDoList/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidDev/Practice/Miwok/.idea/Miwok.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="27bnFgvGR2iX3vZeGtLaTERbTdF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d4960ab-5256-406b-b10e-2a695891f32a" name="Changes" comment="" />
+      <created>1649597553412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649597553412</updated>
+      <workItem from="1649597556021" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
